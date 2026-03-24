@@ -192,5 +192,3 @@ http://localhost:5173
 
 ## ⭐ Se esse projeto te ajudou, deixe uma estrela!
 ---
-
-## ⭐ Se esse projeto te ajudou, deixe uma estrela!
